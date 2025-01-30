@@ -1,6 +1,6 @@
 let domain = "https://69yun69.com/";
-let user = "toutie2023@gmail.com";
-let pass = "pjqX8ZhUA.HEuCm";
+let user = "gmail.com";
+let pass = ".HEuCm";
 let 签到结果;
 let BotToken ='';
 let ChatID =''; 
